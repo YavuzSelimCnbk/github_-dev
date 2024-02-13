@@ -1,0 +1,2 @@
+ilk olarak sınıf diye bir değişken atanacak değişkene 1.sınıf'tan 12.sınıfa kadar yazılacak
+sonrasında while'ı kullanarak bunu dögü olarak çalıştırılacak.

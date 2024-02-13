@@ -1,0 +1,4 @@
+1-Döngü yapılacak
+2-kullanıcıdan şifre girmesii istenecek
+3-girilen şifre eğer Python ise şifre doğru diyecek ve döngü sonlandırılacak
+4- eğer girilen şifre Python değil ise şifre hatalı diyecek

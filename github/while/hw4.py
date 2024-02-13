@@ -1,0 +1,7 @@
+sınıf = ('1 . sınıf' '2 . sınıf' '3 . sınıf' '4 . sınıf' '5 . sınıf' '6 . sınıf' '7 . sınıf' '8 . sınıf' '9 . sınıf' '10 . sınıf' '11 . sınıf' '12 . sınıf')
+ 
+
+
+while sınıf <= '12 . sınıf' :
+    print(sınıf)
+

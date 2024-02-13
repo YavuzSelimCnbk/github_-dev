@@ -1,0 +1,4 @@
+ilk olarak sayi adlı bir değişken atanacak 
+sonra bu değişkene 60 sayısı tanımlanacak 
+sonra while'ı kullanarak sayi değişkenini 30'dan  büyük ise 
+if ile sayi 2 ye kalansız bölünenleri alacak ve print ile yazdıralacak.

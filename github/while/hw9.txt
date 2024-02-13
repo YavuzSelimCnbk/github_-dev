@@ -1,0 +1,6 @@
+1-Döngü yapılacak
+2-kullanıcıdan 2 tane sayı girmesi istenecek
+3-toplam adlı bir değişken yapılacak
+4-toplam adlı değişkene kullanıcıdan alınan iki sayının ortalamasını bulan kod yazılacak
+5-toplam adlı değişken yazdırılacak
+6-eğer kullanıcıdan alınan sayılar 1 ise çıkış yapıldı yazılacak.

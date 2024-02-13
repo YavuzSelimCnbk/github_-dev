@@ -1,0 +1,5 @@
+1- kullanıcıdan 1. ve 2. sayılar alınacak
+2- döngü yapılacak 
+3- ortalama adlı değişken yapılacak 
+4- ortalama adlı değişkene kullanıcıdan alınan 2 sayının ortalaması yazılacak
+5-ortalama adlı değişken yazdırılacak.

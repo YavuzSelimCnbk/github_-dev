@@ -1,0 +1,7 @@
+ilk olarak toplam olarak bir değişken yazılacak ve buna 0 atanacak çünkü toplam ilk başta 0 olmalı
+sonra herhang bir değişken daha yazılacak ve  bunada 1 atanacak 
+sonra while kullanılarak döngü yapılacak
+while döngüsü 20 sayısı 1'den yani tanımladığımız değişkenden büyük veya eşit ise
+toplam değişkenine artı girilen sayı eklenecek
+sonra girdiğimiz değişkene (1 sayısını atadığımız) += 1 yazılacak 
+sonrasında print(toplam) yazılıp çıktısı alınacak çıktı 210 olmalıdır.

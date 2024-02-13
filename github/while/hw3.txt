@@ -1,0 +1,6 @@
+ilk olarak sayi diye bir değişken tanımlanacak 
+sonra bu değişkene 100 değeri atanacak
+while kullanarak sayi değişeninin 1'e eşit veya büyük ise
+if işlemi ile sayi % 5 == 0 yani 5 tam bölünen 100'e kadar olan sayılar 
+sonrasında print kulanılacak print(sayi) yazılacak 
+ve sayi -= 5 kod bloğu kullanılıp bitirilecek

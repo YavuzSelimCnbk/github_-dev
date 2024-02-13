@@ -1,0 +1,7 @@
+1-kullanıcıdan iki sayı girmesi istenecek
+2-toplam adlı değişken yapılacak
+3-toplam adlı değişkene 0 atanacak
+4-döngü yapılacak 
+5- kullanıcıdan alınan sayı toplama eklenecek
+6-sayıya 1 eklenecek
+7-girilen sayıların toplamı yazdırılacak
